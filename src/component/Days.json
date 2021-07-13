@@ -1,0 +1,128 @@
+[
+  {
+    "id": "0",
+    "day": "Day : 1",
+    "date": "10 June 21",
+    "platform": "LeetCode",
+    "problems": [
+      {
+        "index": "1",
+        "problem": "Two Sum",
+        "variant": "primary",
+        "action": true
+      },
+      {
+        "index": "217",
+        "problem": "Contains Duplicate",
+        "variant": "success",
+        "action": true
+      },
+      {
+        "index": "",
+        "problem": "",
+        "variant": "danger",
+        "action": false
+      },
+      {
+        "index": "",
+        "problem": "",
+        "variant": "warning",
+        "action": false
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "day": "Day : 2",
+    "date": "11 June 21",
+    "platform": "LeetCode",
+    "problems": [
+      {
+        "index": "11",
+        "problem": "Container With Most Water",
+        "variant": "primary",
+        "action": true
+      },
+      {
+        "index": "56",
+        "problem": "Merge Intervals",
+        "variant": "success",
+        "action": true
+      },
+      {
+        "index": "",
+        "problem": "",
+        "variant": "danger",
+        "action": false
+      },
+      {
+        "index": "",
+        "problem": "",
+        "variant": "warning",
+        "action": false
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "day": "Day : 3",
+    "date": "12 June 21",
+    "platform": "LeetCode",
+    "problems": [
+      {
+        "index": "57",
+        "problem": "Insert Interval",
+        "variant": "primary",
+        "action": true
+      },
+      {
+        "index": "435",
+        "problem": "Non-overlapping Intervals",
+        "variant": "success",
+        "action": true
+      },
+      {
+        "index": "73",
+        "problem": "Set Matrix Zeroes",
+        "variant": "danger",
+        "action": true
+      },
+      {
+        "index": "48",
+        "problem": "Rotate Image",
+        "variant": "warning",
+        "action": false
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "day": "Day : 4",
+    "date": "13 June 21",
+    "platform": "LeetCode",
+    "problems": [
+      {
+        "index": "54",
+        "problem": "Spiral Matrix",
+        "variant": "primary"
+      },
+      {
+        "index": "1047",
+        "problem": "Remove All Adjacent Duplicates In String",
+        "variant": "success"
+      },
+      {
+        "index": "496",
+        "problem": "Next Greater Element I",
+        "variant": "danger",
+        "action": true
+      },
+      {
+        "index": "",
+        "problem": "",
+        "variant": "warning",
+        "action": false
+      }
+    ]
+  }
+]

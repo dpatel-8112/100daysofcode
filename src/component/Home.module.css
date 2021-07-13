@@ -1,0 +1,49 @@
+.Heading {
+  font-size: 48px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border-radius: 10px;
+  background-color: #08b6c7;
+  padding: 7px;
+  margin: 10px 0px 0px 0px;
+  font-family: serif;
+}
+.CardHeader {
+  height: 80px;
+  min-height: 80px;
+  max-height: 80px;
+  color: white;
+  background-color: #121212;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-family: monospace;
+  display: grid;
+}
+.HeadingYear {
+  background-color: #6900ff21;
+  border-radius: 10px;
+  padding: 2px 8px;
+  font-size: 40px;
+  color: #ff0000c9;
+  font-family: cursive;
+}
+.ProblemDate {
+  font-size: 16px;
+}
+.Column {
+  padding: 10px 0px;
+}
+.Text {
+  text-align: left;
+}
+
+.ProblemIndex {
+  margin-right: 6px;
+}
+.ProblemName {
+  font-size: 18px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: monospace;
+  letter-spacing: 0.5px;
+}
