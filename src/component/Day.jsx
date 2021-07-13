@@ -7,7 +7,7 @@ import ListGroup from "react-bootstrap/ListGroup";
 
 function Day(props) {
   const {
-    day: { id, day, date, plateform, problems },
+    day: { id, day, date, platform, problems },
   } = props;
 
   problems.map((value) => console.log(value));
@@ -34,7 +34,7 @@ function Day(props) {
           {day} <span className={Style.ProblemDate}>({date})</span>
         </Card.Header>
         <Card.Body className={Style.CardBody}>
-          <Card.Title>{date}</Card.Title>
+          <Card.Title>{platform}</Card.Title>
           <Card.Text className={Style.Text}>
             <ListGroup>
               {problems.map((problem, index) => {
