@@ -124,5 +124,28 @@
         "action": false
       }
     ]
+  },
+  {
+    "id": "5",
+    "day": "Day : 5",
+    "date": "14 June 21",
+    "platform": "LeetCode",
+    "problems": [
+      {
+        "index": "20",
+        "problem": "Valid Parentheses",
+        "variant": "primary"
+      },
+      {
+        "index": "53",
+        "problem": "Maximum Subarray",
+        "variant": "success"
+      },
+      {
+        "index": "42",
+        "problem": "Trapping Rain Water",
+        "variant": "danger"
+      }
+    ]
   }
 ]
