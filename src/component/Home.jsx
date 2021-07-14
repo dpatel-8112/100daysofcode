@@ -1,8 +1,8 @@
 import React from "react";
 import Day from "./Day";
-import Style from "./Home.module.css";
+import Style from "../style/Home.module.css";
 import { Container, Row } from "react-bootstrap";
-import Days from "./Days.json";
+import Days from "../json/Days.json";
 
 function Home() {
   return (

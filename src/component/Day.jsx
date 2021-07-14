@@ -1,26 +1,20 @@
 import React from "react";
-import Style from "./Home.module.css";
+import Style from "../style/Home.module.css";
 import Card from "react-bootstrap/Card";
 import { Col } from "react-bootstrap";
 import Badge from "react-bootstrap/Badge";
 import ListGroup from "react-bootstrap/ListGroup";
+import { ProblemContext } from "../context/ProblemContext";
 
 function Day(props) {
+  const { active, activeProblemHandler } = React.useContext(ProblemContext);
+
+  console.log(activeProblemHandler);
   const {
     day: { id, day, date, platform, problems },
   } = props;
 
-  problems.map((value) => console.log(value));
-  // const variant = [
-  //   "Primary",
-  //   "Secondary",
-  //   "Success",
-  //   "Danger",
-  //   "Warning",
-  //   "Info",
-  //   "Light",
-  //   "Dark",
-  // ];
+  // problems.map((value) => console.log(value));
 
   return (
     <Col sm={12} md={6} lg={4} className={Style.Column}>
@@ -40,6 +34,7 @@ function Day(props) {
               {problems.map((problem, index) => {
                 return (
                   <ListGroup.Item
+                    onClick={() => activeProblemHandler(problem.index)}
                     action
                     data-action={problem.action}
                     variant={problem.variant}

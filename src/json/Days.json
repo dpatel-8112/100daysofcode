@@ -18,14 +18,14 @@
         "action": true
       },
       {
-        "index": "",
-        "problem": "",
+        "index": "121",
+        "problem": "Best Time to Buy and Sell Stock",
         "variant": "danger",
-        "action": false
+        "action": true
       },
       {
-        "index": "",
-        "problem": "",
+        "index": "242",
+        "problem": "Valid Anagram",
         "variant": "warning",
         "action": false
       }
