@@ -1053,5 +1053,72 @@
     ],
     "url": "https://leetcode.com/problems/next-greater-element-i/",
     "solutionImg": "42.png"
+  },
+
+  {
+    "id": "18",
+    "index": "79",
+    "title": "Word Search",
+    "level": "Medium",
+    "statements": [
+      {
+        "id": "0",
+        "statement": "Given an m x n grid of characters board and a string word, return true if word exists in the grid."
+      },
+      {
+        "id": "1",
+        "statement": "The word can be constructed from letters of sequentially adjacent cells, where adjacent cells are horizontally or vertically neighboring. The same letter cell may not be used more than once."
+      }
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "example": [
+          {
+            "input": "board = [['A','B','C','E'],['S','F','C','S'],['A','D','E','E']],  word = 'ABCCED'",
+            "output": "'true'"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "example": [
+          {
+            "input": "board = [['A','B','C','E'],['S','F','C','S'],['A','D','E','E']], word = 'SEE'",
+            "output": "true"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "example": [
+          {
+            "input": "board = [['A','B','C','E'],['S','F','C','S'],['A','D','E','E']], word = 'ABCB'",
+            "output": "false"
+          }
+        ]
+      }
+    ],
+    "constraints": [
+      {
+        "constraint": "m == board.length"
+      },
+      {
+        "constraint": "n = board[i].length"
+      },
+      {
+        "constraint": "1 <= m, n <= 6"
+      },
+      {
+        "constraint": "1 <= word.length <= 15"
+      },
+      {
+        "constraint": "board and word consists of only lowercase and uppercase English letters"
+      }
+    ],
+    "followup": "Could you use search pruning to make your solution faster with a larger board",
+    "tags": ["Array", " | ", "Back Tracking", " | ", "Matrix"],
+    "url": "https://leetcode.com/problems/word-search/",
+    "solutionImg": "79.png"
   }
 ]

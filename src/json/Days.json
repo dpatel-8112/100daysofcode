@@ -147,5 +147,18 @@
         "variant": "danger"
       }
     ]
+  },
+  {
+    "id": "6",
+    "day": "Day : 6",
+    "date": "15 June 21",
+    "platform": "LeetCode",
+    "problems": [
+      {
+        "index": "79",
+        "problem": "Word Search",
+        "variant": "primary"
+      }
+    ]
   }
 ]
