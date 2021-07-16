@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/100daysofcode/static/css/main.87389707.chunk.css",
-    "main.js": "/100daysofcode/static/js/main.bd4a41dd.chunk.js",
-    "main.js.map": "/100daysofcode/static/js/main.bd4a41dd.chunk.js.map",
-    "runtime-main.js": "/100daysofcode/static/js/runtime-main.fe23e3ab.js",
-    "runtime-main.js.map": "/100daysofcode/static/js/runtime-main.fe23e3ab.js.map",
+    "main.js": "/100daysofcode/static/js/main.f916707d.chunk.js",
+    "main.js.map": "/100daysofcode/static/js/main.f916707d.chunk.js.map",
+    "runtime-main.js": "/100daysofcode/static/js/runtime-main.9030c25d.js",
+    "runtime-main.js.map": "/100daysofcode/static/js/runtime-main.9030c25d.js.map",
     "static/css/2.081f420c.chunk.css": "/100daysofcode/static/css/2.081f420c.chunk.css",
-    "static/js/2.b0f4c830.chunk.js": "/100daysofcode/static/js/2.b0f4c830.chunk.js",
-    "static/js/2.b0f4c830.chunk.js.map": "/100daysofcode/static/js/2.b0f4c830.chunk.js.map",
-    "static/js/3.d1a053ad.chunk.js": "/100daysofcode/static/js/3.d1a053ad.chunk.js",
-    "static/js/3.d1a053ad.chunk.js.map": "/100daysofcode/static/js/3.d1a053ad.chunk.js.map",
+    "static/js/2.b533d48d.chunk.js": "/100daysofcode/static/js/2.b533d48d.chunk.js",
+    "static/js/2.b533d48d.chunk.js.map": "/100daysofcode/static/js/2.b533d48d.chunk.js.map",
+    "static/js/3.445002cd.chunk.js": "/100daysofcode/static/js/3.445002cd.chunk.js",
+    "static/js/3.445002cd.chunk.js.map": "/100daysofcode/static/js/3.445002cd.chunk.js.map",
     "index.html": "/100daysofcode/index.html",
     "static/css/2.081f420c.chunk.css.map": "/100daysofcode/static/css/2.081f420c.chunk.css.map",
     "static/css/main.87389707.chunk.css.map": "/100daysofcode/static/css/main.87389707.chunk.css.map",
-    "static/js/2.b0f4c830.chunk.js.LICENSE.txt": "/100daysofcode/static/js/2.b0f4c830.chunk.js.LICENSE.txt",
+    "static/js/2.b533d48d.chunk.js.LICENSE.txt": "/100daysofcode/static/js/2.b533d48d.chunk.js.LICENSE.txt",
     "static/media/1.png": "/100daysofcode/static/media/1.2fb183bf.png",
     "static/media/1047.png": "/100daysofcode/static/media/1047.b862b7a7.png",
     "static/media/11.png": "/100daysofcode/static/media/11.cec8f40d.png",
@@ -22,6 +22,7 @@
     "static/media/20.png": "/100daysofcode/static/media/20.86588c55.png",
     "static/media/238.png": "/100daysofcode/static/media/238.80a73c93.png",
     "static/media/242.png": "/100daysofcode/static/media/242.edd093f7.png",
+    "static/media/4.png": "/100daysofcode/static/media/4.5e5287f4.png",
     "static/media/42.png": "/100daysofcode/static/media/42.71a855b7.png",
     "static/media/435.png": "/100daysofcode/static/media/435.a2ef3607.png",
     "static/media/48.png": "/100daysofcode/static/media/48.61899d78.png",
@@ -35,10 +36,10 @@
     "static/media/logo.6ce24c58.svg": "/100daysofcode/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe23e3ab.js",
+    "static/js/runtime-main.9030c25d.js",
     "static/css/2.081f420c.chunk.css",
-    "static/js/2.b0f4c830.chunk.js",
+    "static/js/2.b533d48d.chunk.js",
     "static/css/main.87389707.chunk.css",
-    "static/js/main.bd4a41dd.chunk.js"
+    "static/js/main.f916707d.chunk.js"
   ]
 }
