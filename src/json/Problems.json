@@ -1120,5 +1120,75 @@
     "tags": ["Array", " | ", "Back Tracking", " | ", "Matrix"],
     "url": "https://leetcode.com/problems/word-search/",
     "solutionImg": "79.png"
+  },
+
+  {
+    "id": "19",
+    "index": "4",
+    "title": "Median of Two Sorted Arrays",
+    "level": "Hard",
+    "statements": [
+      {
+        "id": "0",
+        "statement": "Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays."
+      },
+      {
+        "id": "1",
+        "statement": "The overall run time complexity should be O(log (m+n))."
+      }
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "example": [
+          {
+            "input": "nums1 = [1,3], nums2 = [2]",
+            "output": "'2.00000'"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "example": [
+          {
+            "input": "nums1 = [1,2], nums2 = [3,4]",
+            "output": "2.50000"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "example": [
+          {
+            "input": "nums1 = [0,0], nums2 = [0,0]",
+            "output": "0.00000"
+          }
+        ]
+      }
+    ],
+    "constraints": [
+      {
+        "constraint": "nums1.length == m"
+      },
+      {
+        "constraint": "nums2.length == n"
+      },
+      {
+        "constraint": "0 <= m <= 1000"
+      },
+      {
+        "constraint": "0 <= n <= 1000"
+      },
+      {
+        "constraint": "1 <= m + n <= 2000"
+      },
+      {
+        "constraint": "-106 <= nums1[i], nums2[i] <= 106"
+      }
+    ],
+    "followup": "Could you use search pruning to make your solution faster with a larger board",
+    "tags": ["Array", " | ", "Binary Search", " | ", "Divide and Conquer"],
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "solutionImg": "4.png"
   }
 ]

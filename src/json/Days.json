@@ -160,5 +160,18 @@
         "variant": "primary"
       }
     ]
+  },
+  {
+    "id": "7",
+    "day": "Day : 7",
+    "date": "16 June 21",
+    "platform": "LeetCode",
+    "problems": [
+      {
+        "index": "4",
+        "problem": "Median of Two Sorted Arrays",
+        "variant": "primary"
+      }
+    ]
   }
 ]
